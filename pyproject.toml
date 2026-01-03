@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "deep learning in python"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["keras", "tensorflow"]
+dependencies = ["keras", "tensorflow", "matplotlib"]
